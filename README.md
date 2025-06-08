@@ -9,7 +9,6 @@
 - User registration and subscription to trips
 - Company dashboard for managing offers and trips
 - Real-time seat availability and updates
-- Booking and notification system
 - Responsive UI for both mobile and desktop
 
 ---
